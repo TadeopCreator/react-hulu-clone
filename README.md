@@ -14,7 +14,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
-You can see the web live [here](https://react-hulu-clone-one.vercel.app/)
+You can check out the web live [**here**](https://react-hulu-clone-one.vercel.app/)
 
 ![](./public/web-thumbnail.png)
 
